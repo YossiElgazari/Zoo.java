@@ -59,14 +59,4 @@ Feel free to explore the GUI and interact with the zoo!
 
 ## Contributing
 
-Contributions to Zoo.java are always welcome. If you find any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/YossiElgazari/Zoo.java/issues).
-
 If you'd like to contribute code, you can fork the repository and create a pull request with your changes. Please ensure that your code follows the existing style and conventions.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and distribute it as per the terms of the license.
-
----
-
-That's it! You can customize the README file further to include any additional information specific to your project.
