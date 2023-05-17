@@ -30,7 +30,7 @@ cd Zoo.java
 4. Locate the following line of code:
 
 ```java
-String imagePath = "path/to/image.png";
+public final static String PICTURE_PATH = "path/to/image.png";
 ```
 
 5. Replace `"path/to/image.png"` with the desired file path to your custom image for the animal. Make sure to use a valid file path, and ensure that the image file is accessible from the program's working directory.
